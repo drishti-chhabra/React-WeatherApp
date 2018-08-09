@@ -1,0 +1,19 @@
+{
+  "name": "weatherinfo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-forecast": "0.0.7",
+    "react-geolocated": "^2.4.0",
+    "react-scripts": "1.1.4",
+    "semantic-ui-react": "^0.82.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
